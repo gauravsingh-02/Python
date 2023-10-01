@@ -19,6 +19,7 @@ To run the Python code in this repository, you need to have Python installed on 
    - Visit the [official Python website](https://www.python.org/downloads/).
    - Choose the appropriate version for your operating system (Windows, macOS, or Linux).
    - Follow the installation instructions provided on the website.
+     **Check the box saying "Add to Path" during installation**
 
 2. **Verify Installation:**
    - Open a terminal or command prompt.
