@@ -1,7 +1,7 @@
 # HandVolume 2.0
 
 ## Overview
-HandVolume 2.0 is an advanced version of a hand tracking script designed for a specific use case—setting the volume with a flick of the pinky finger. The script utilizes the MediaPipe library to detect and track hand movements through a webcam, enabling precise volume control.
+HandVolume 2.0 is an advanced version of a hand tracking script designed for setting the volume with a flick of the pinky finger. The script utilizes the MediaPipe library to detect and track hand movements through a webcam, enabling precise volume control.
 
 ## Features
 1. **Hand Landmark Detection:** Detects and displays landmarks on the hand in real-time.
@@ -17,12 +17,13 @@ Ensure you have the following Python libraries installed:
 - MediaPipe: `pip install mediapipe`
 
 ## How to Run
-1. Place the `HandVolume2.0.py` file in the same directory as the provided module.
-2. Install dependencies by running:
+1. **IMPORTANT:** Do not run the module file (`HandTrackingModule.py`). Only run the main script file (`HandVolume2.0.py`).
+2. Place both the `HandTrackingModule.py` module file and the `HandVolume2.0.py` script file in the same directory.
+3. Install dependencies by running:
     ```bash
     pip install -r requirements.txt
     ```
-3. Run the script using:
+4. Run the script using:
     ```bash
     python HandVolume2.0.py
     ```
@@ -32,7 +33,7 @@ Ensure you have the following Python libraries installed:
 - To close the application, press `q`.
 
 ## Advanced Version
-This script is customized for setting the volume with a flick of the pinky finger. It builds upon the earlier hand volume tracker, offering a specialized functionality.
+This script is customized for setting the volume with a flick of the pinky finger. It builds upon the earlier hand volume tracker, offering specialized functionality.
 
 Feel free to explore and customize the script for your own projects! If you encounter any issues or have suggestions for improvement, please create an issue on GitHub.
 
