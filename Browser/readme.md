@@ -40,7 +40,7 @@ Explore the potential to customize and extend the browser according to your pref
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/gauravsingh-02
+   git clone https://github.com/gauravsingh-02/Python
    ```
 
 2. **Navigate to the Project Directory:*
