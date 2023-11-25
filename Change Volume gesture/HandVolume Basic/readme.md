@@ -25,7 +25,7 @@ pip install opencv-python mediapipe numpy pycaw
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/gauravsingh-02/Change Volume gesture
+git clone https://github.com/gauravsingh-02/Python/Change Volume gesture
 cd HandVolume Basic
 ```
 
