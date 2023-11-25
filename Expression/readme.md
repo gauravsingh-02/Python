@@ -16,14 +16,14 @@ Make sure you have the following dependencies installed before running the scrip
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/facial-expression-detection.git
-    cd facial-expression-detection
+    git clone https://github.com/gauravsingh-02/Python/Expression
+    cd exp.py
     ```
 
 2. Run the script:
 
     ```bash
-    python facial_expression_detection.py
+    python exp.py
     ```
 
 3. Press 'q' to exit the application.
