@@ -25,7 +25,7 @@ Welcome to your personal virtual assistant coded in Python! This robust virtual 
 1. **Clone the Repository**: Begin by cloning the repository to your local machine.
 
     ```bash
-    git clone https://github.com/gauravsingh-02
+    git clone https://github.com/gauravsingh-02/Python
     ```
 
 2. **Navigate to Project Directory**: Move into the project directory.
