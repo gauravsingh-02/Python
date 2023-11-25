@@ -25,19 +25,19 @@ Welcome to your personal virtual assistant coded in Python! This robust virtual 
 1. **Clone the Repository**: Begin by cloning the repository to your local machine.
 
     ```bash
-    git clone https://github.com/your-username/virtual-assistant.git
+    git clone https://github.com/gauravsingh-02
     ```
 
 2. **Navigate to Project Directory**: Move into the project directory.
 
     ```bash
-    cd virtual-assistant
+    cd BasicVA
     ```
 
 3. **Run the Python Script**: Execute the Python script to start the virtual assistant.
 
     ```bash
-    python virtual_assistant.py
+    python BasicVA.py
     ```
 
 4. **Interact with the Assistant**: Use voice commands to interact with the virtual assistant and explore its functionalities.
