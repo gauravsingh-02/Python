@@ -16,8 +16,8 @@ Make sure you have the following dependencies installed before running the scrip
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/gauravsingh-02/Python/Expression
-    cd exp.py
+    git clone https://github.com/gauravsingh-02/Python
+    cd Expression
     ```
 
 2. Run the script:
