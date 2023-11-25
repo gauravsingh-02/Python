@@ -25,7 +25,7 @@ pip install opencv-python mediapipe numpy pycaw
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/hand-volume-control.git
+git clone https://github.com/gauravsingh-02/hand-volume-control.git
 cd hand-volume-control
 ```
 
