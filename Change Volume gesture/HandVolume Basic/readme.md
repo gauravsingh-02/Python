@@ -25,14 +25,14 @@ pip install opencv-python mediapipe numpy pycaw
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/gauravsingh-02/hand-volume-control.git
-cd hand-volume-control
+git clone https://github.com/gauravsingh-02/Change Volume gesture
+cd HandVolume Basic
 ```
 
 2. Run the script:
 
 ```bash
-python hand_volume_control.py
+python HandVolume.py
 ```
 
 3. Interact with the webcam by showing your hand with an open palm. Move your thumb and index finger to control the volume.
