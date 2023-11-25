@@ -40,12 +40,12 @@ Explore the potential to customize and extend the browser according to your pref
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/gauravsingh-02/basic-personal-web-browser.git
+   git clone https://github.com/gauravsingh-02
    ```
 
 2. **Navigate to the Project Directory:*
    ```bash
-   cd basic-personal-web-browser
+   cd Browser
    ```
 
 3. **Run the Application:**
