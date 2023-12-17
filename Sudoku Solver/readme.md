@@ -13,12 +13,12 @@ A simple Sudoku solver implemented in Python using the Tkinter library for the g
 1. **Clone the Repository:**
    - Clone this repository to your local machine:
      ```bash
-     git clone https://github.com/gauravsingh-02/YourRepository.git
+     git clone https://github.com/gauravsingh-02/Python
      ```
 
 2. **Navigate to the Sudoku Solver folder:**
    ```bash
-   cd YourRepository/"Sudoku Solver"
+   cd Sudoku Solver
 
 3. **Run the Application:**
    - Make sure you have Python installed on your system.
